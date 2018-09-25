@@ -5,3 +5,4 @@ My solutions for the assignments of Mathematics for Machine Learning Specializat
 Courses:
 1. Linear Algebra
 2. Multivariate Calculus
+3. PCA
